@@ -1,0 +1,14 @@
+Problem Statement
+
+-----------------
+
+In the multiple arguments passed to a JavaScript function determine if all the argumets are number or not.
+
+-----------------
+
+Sample
+-------
+numbers (1, 2, 3) --> True
+
+numbers ("1", "2", "3") --> False
+-------
